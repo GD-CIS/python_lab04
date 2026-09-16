@@ -1,0 +1,9 @@
+Encapsulation and generalization both help the drawing process by allowing me
+to simplify lines of code into a single line function. It also makes it easier
+for reuse and for readability.
+And also allows me to...well generalize my functions.
+This makes it to where I have more freedom
+when it comes to what I want to do with them, imagine haveing to specify
+where all 30 of those stars went and how big they had to be, not only would
+that be really tedious but also require a lot more testing to make sure that it
+was done right.
