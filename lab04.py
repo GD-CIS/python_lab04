@@ -92,7 +92,7 @@ def draw_sky(t, num_stars):
 t = turtle.Turtle()
 
 t.speed(10)
-#t.hideturtle()
+t.hideturtle()
 
 # Create a window to draw in
 # Create a new turtle screen and set its background color
